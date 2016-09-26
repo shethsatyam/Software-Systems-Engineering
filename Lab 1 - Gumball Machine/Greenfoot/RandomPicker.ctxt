@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=RandomPicker
+comment0.text=\r\n\ \ The\ RandomPicker\ will\ dispense\ a\ ball\ only\ when\ the\ inspector\ invokes\ it,\ more\ about\ this\ is\ explained\ in\ the\ inspector\ class.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=i
+comment2.target=void\ dispenseball(int)
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Inspector
+comment0.text=\r\n\ Inspector\ comes\ into\ play\ when\ crank\ is\ turned(clicked).\ He\ checks\ for\ coin\ validity\ and\ then\ randomly\ selects\ the\ green\ or\ random\ picker.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ provideinst()
+comment3.params=coin
+comment3.target=void\ checkcoin(java.lang.String)
+numComments=4
